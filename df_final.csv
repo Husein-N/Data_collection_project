@@ -1,0 +1,71 @@
+Rank,Company,Industry,Revenue (USD millions),Revenue growth,Employees,Headquarters,symbol,price,marketCap,beta,lastDividend,range,change,changePercentage,volume,averageVolume,ceo,state
+1,Walmart,Retail,"680,985",5.1%,"2,100,000","Bentonville, Arkansas",WMT,106.04,845441132977.0,0.671,0.9125,79.81-109.58,-1.1,-1.02669,4278415.0,16517159.0,C. Douglas McMillon,AR
+2,Amazon,Retail and cloud computing,"637,959",11.0%,"1,556,000","Seattle, Washington",AMZN,220.42,2350759924421.0,1.281,0.0,161.38-242.52,2.47,1.13329,14170486.0,44254714.0,Andrew R. Jassy,WA
+3,UnitedHealth Group,Healthcare,"400,278",7.7%,"400,000","Minnetonka, Minnesota",UNH,360.315,326327792192.0,0.478,8.62,234.6-630.73,-1.175,-0.32504,3193817.0,15174048.0,Stephen J. Hemsley,MN
+4,Apple,Electronics industry,"391,035",2.0%,"164,000","Cupertino, California",AAPL,260.06,3859391823400.0,1.094,1.02,169.21-265.29,1.61,0.62294,13014414.0,54967137.0,Timothy D. Cook,CA
+5,CVS Health,Healthcare,"372,809",4.2%,"259,500","Woonsocket, Rhode Island",CVS,80.94,102658336793.0,0.609,1.995,43.56-83.52,-1.07,-1.30472,2713106.0,7853815.1,J. David Joyner CEBS,RI
+6,Alphabet,Technology and cloud computing,"350,018",13.9%,"183,323","Mountain View, California",GOOGL,254.17,3074077407432.0,1.0,0.82,140.53-257.33,2.48,0.98534,9845076.0,34478379.0,Sundar Pichai,CA
+7,Cencora,Pharmacy wholesale,"293,959",12.1%,"44,000","Conshohocken, Pennsylvania",COR,330.46,64068884555.0,0.629,2.2,223.92-331.73,-0.34,-0.10278,266034.0,1409026.0,Robert P. Mauch PharmD,PA
+8,JPMorgan Chase,Financial services,"278,906",16.5%,"317,233","New York City, New York",JPM,294.904,810912274000.0,1.127,5.55,202.16-318.01,0.794,0.26997,2133204.0,8150784.0,James Dimon,NY
+9,Costco,Retail,"254,453",5.0%,"333,000","Issaquah, Washington",COST,937.5032,415484056618.0,0.964,4.92,867.34-1078.23,-7.1768,-0.75971,996357.0,2326437.0,Ron M. Vachris,WA
+10,Cigna,Health insurance,"247,121",26.6%,"72,398","Bloomfield, Connecticut",CI,302.01,80614947931.0,0.462,5.93,256.89-350,-5.86,-1.9034,368567.0,1656876.0,David Michael Cordani,CT
+11,Microsoft,Technology and cloud computing,"245,122",15.7%,"228,000","Redmond, Washington",MSFT,522.77,3885836387950.0,1.023,3.32,344.79-555.45,2.23,0.4284,5620930.0,20304070.0,Satya Nadella,WA
+12,Cardinal Health,Healthcare,"226,827",10.6%,"48,411","Dublin, Ohio",CAH,159.83,38166886470.0,0.718,2.0326,106.98-168.44,0.31,0.19433,419234.0,2347335.0,Jason M. Hollar,OH
+13,Bank of America,Financials,"184,992",11.9%,"213,193","Charlotte, North Carolina",BAC,51.61,382272689500.0,1.334,1.06,33.07-52.88,0.51,0.99804,11208169.0,34441000.0,Brian Thomas Moynihan,NC
+14,General Motors,Automotive industry,"187,442",9.1%,"162,000","Detroit, Michigan",GM,67.27,63502847105.0,1.336391,0.54,41.6-68.4799,-0.04,-0.05942653,5479288.0,8196906.0,Mary T. Barra,MI
+15,Elevance Health,Healthcare,"177,011",3.3%,"103,679","Indianapolis, Indiana",ELV,344.43,76545778770.0,0.59,6.76,273.71-458.75,-0.78,-0.22595,1323305.0,2195782.0,Gail Koziara Boudreaux,IN
+16,Citigroup,Financials,"170,757",8.9%,"227,855","New York City, New York",C,96.88,178346392000.0,1.357,2.28,55.51-105.59,0.58,0.60228,3269722.0,14150437.0,Jane Nind Fraser,NY
+17,Meta Platforms,Technology,"164,501",21.9%,"74,067","Menlo Park, California",META,738.32,1854803844148.0,1.203,2.075,479.8-796.25,4.91,0.66948,4220388.0,11923643.0,Mark Elliot Zuckerberg,CA
+18,Centene,Healthcare,"163,071",5.9%,"60,500","St. Louis, Missouri",CNC,33.575,16489790475.0,0.476,0.0,25.08-70.11,-2.445,-6.7879,9509194.0,14435792.0,Sarah M. London,MO
+19,Walgreens Boots Alliance,Pharmaceutical industry,"147,658",6.2%,"252,500","Deerfield, Illinois",WBA,11.98,10369421068.0,0.768,0.25,8.08-13.25,0.06,0.50336,452081061.0,16940296.0,Timothy C. Wentworth,IL
+20,Kroger,Retail,"147,123",-1.9%,"409,000","Cincinnati, Ohio",KR,68.505,45396756390.0,0.566,1.31,55.6-74.9,-0.1,-0.14576,1835321.0,7045748.0,David John Christopher Kennerley,OH
+21,Phillips 66,Petroleum industry,"145,496",-2.9%,"13,200","Houston, Texas",PSX,135.215,54643662492.0,1.094,4.7,91.01-142.35,3.815,2.90335,1171432.0,2400100.0,Mark E. Lashier,TX
+22,Marathon Petroleum,Petroleum industry,"140,412",-6.6%,"18,300","Findlay, Ohio",MPC,195.9925,59585700412.0,0.883,3.64,115.1-201.61,7.4525,3.95274,891778.0,1774856.0,Maryann T. Mannen,OH
+23,Verizon Communications,Telecommunications,"134,788",0.6%,"99,600","New York City, New York",VZ,38.64,162918790581.0,0.366,2.7225,37.59-47.36,-1.16,-2.91457,23941629.0,20072329.0,Hans E. Vestberg,NY
+24,Nvidia,Technology,"130,497",114.2%,"36,000","Santa Clara, California",NVDA,181.755,4425188985000.0,2.123,0.04,86.62-195.62,1.475,0.81817,62101888.0,173464512.0,Jen-Hsun Huang,CA
+25,Goldman Sachs,Financials,"126,853",17.0%,"46,500","New York City, New York",GS,751.62,227531158020.0,1.415,13.0,439.38-825.25,7.02,0.94279,570063.0,1881481.0,David Solomon,NY
+26,Wells Fargo,Financials,"125,397",8.7%,"217,502","San Francisco, California",WFC,84.48,270626611200.0,1.24,1.8,58.42-87.47,0.6,0.71531,5441698.0,14615006.0,Charles W. Scharf,CA
+27,Valero Energy,Petroleum industry,"123,974",-10.8%,"9,910","San Antonio, Texas",VLO,171.44,53258134991.0,1.026,4.46,99-178.43,9.57,5.91215,2392189.0,2684707.0,R. Lane Riggs,TX
+28,Comcast,Telecommunications,"123,731",1.8%,"182,000","Philadelphia, Pennsylvania",CCZ,59.0,55886807003.0,0.05139386,1.7914,53.14-68.405,-3.54,-5.66038,6.0,15.0,None,PA
+29,AT&T,Conglomerate and telecommunications,"122,336",-0.1%,"140,990","Dallas, Texas",T,24.575,175720834250.0,0.624,1.11,21.38-29.79,-0.975,-3.81605,53498118.0,35685989.0,John T. Stankey,TX
+30,Humana,Health insurance,"117,761",10.7%,"65,680","Louisville, Kentucky",HUM,287.42,34568555246.0,0.425,3.54,206.87-315.35,-0.3,-0.10427,299567.0,1943175.0,James A. Rechtin,KY
+31,Morgan Stanley,Financials,"107,285",11.5%,"80,478","New York City, New York",MS,159.025,253857968500.0,1.324,3.775,94.33-166.77,0.905,0.57235,1193306.0,5287360.0,Edward N. Pick,NY
+32,StoneX Group,Financials,"99,888",64.1%,"4,500","New York City, New York",SNEX,98.94,5161165029.0,0.516,0.0,56.12667-106.98,-1.34,-1.33626,85740.0,520593.0,Philip Andrew Smith,NY
+33,Tesla,Automotive and energy,"97,690",0.9%,"125,665","Austin, Texas",TSLA,440.35,1420286991534.0,2.086,0.0,214.25-488.54,1.38,0.31437,71118229.0,88273664.0,Elon R. Musk,TX
+34,Dell Technologies,Technology,"95,567",8.1%,"108,000","Round Rock, Texas",DELL,155.25,104384285888.0,1.126,2.02,66.25-166.1,5.12,3.41038,2608353.0,6736109.0,Michael Saul Dell,TX
+35,PepsiCo,Beverage,"91,854",0.4%,"319,000","Purchase, New York",PEP,151.36,206967001729.0,0.458,5.555,127.6-174,-1.67,-1.09129,1418683.0,8692063.7,Ramon Luis Laguarta,NY
+36,United Parcel Service,Transportation,"91,070",0.1%,"372,180","Atlanta, Georgia",UPS,86.99,73735052722.0,1.078,6.55,82-145.01,-0.09,-0.10335,2625170.0,8464329.0,Carol B. Tome,GA
+37,Johnson & Johnson,Pharmaceutical industry,"88,821",-6.7%,"138,100","New Brunswick, New Jersey",JNJ,191.95,462280646480.0,0.392,5.08,140.68-194.48,-0.985,-0.51053,2425245.0,8487948.0,Joaquin Duato,NJ
+38,FedEx,Transportation,"87,693",-2.7%,"422,100","Memphis, Tennessee",FDX,237.175,55962736463.0,1.288,5.66,194.3-308.53,-2.235,-0.93354,438494.0,1980298.0,Rajesh Subramaniam,TN
+39,Procter & Gamble,Consumer products manufacturing,"84,039",2.5%,"108,000","Cincinnati, Ohio",PG,151.905,355785328704.0,0.364,3.1201,146.97-180.43,-0.295,-0.19382,3514084.0,7503964.0,Jon R. Moeller,OH
+40,Lowe's,Retail,"83,674",-3.1%,"215,500","Mooresville, North Carolina",LOW,241.76,135583713133.0,0.88,5.85,206.39-280.64,-1.77,-0.72681,696718.0,2812400.0,Marvin R. Ellison,NC
+41,Albertsons,Retail,"79,238",2.0%,"196,650","Boise, Idaho",ACI,19.505,10716540223.0,0.344,0.57,16.7-23.2,-0.055,-0.28119,1862981.0,6545426.0,Susan D. Morris,ID
+42,Sysco,Food service,"78,844",3.3%,"76,000","Houston, Texas",SYY,78.22,38182534275.0,0.836,2.1,67.12-83.47,-0.38,-0.48346,1441761.0,2999920.0,Kevin P. Hourican,TX
+43,American Express,Financial,"74,201",10.1%,"75,100","New York City, New York",AXP,354.62,247435917761.0,1.294,3.16,220.43-357.73,2.62,0.74432,754897.0,2580743.0,Stephen Joseph Squeri,NY
+44,MetLife,Financials,"70,986",6.1%,"45,000","New York City, New York",MET,78.27,52051589247.0,0.849,2.225,65.21-89.05,-0.29,-0.36914,549736.0,3360982.0,Michel Abbas Khalaf,NY
+45,HCA Healthcare,Healthcare,"70,603",8.7%,"271,000","Nashville, Tennessee",HCA,446.085,104380990448.0,1.407,2.82,289.98-446.57,4.895,1.1095,730071.0,1299950.0,Samuel N. Hazen,TN
+46,Prudential Financial,Financials,"70,405",30.4%,"37,936","Newark, New Jersey",PRU,101.78,35826692416.0,1.021,5.35,90.38-130.55,-0.31,-0.30365,280591.0,1606675.0,Andrew Francis Sullivan,NJ
+47,Boeing,Aerospace and defense,"66,517",-14.5%,"172,000","Arlington County, Virginia",BA,218.88,165507796282.0,1.47,0.0,128.88-242.69,2.29,1.0573,2627255.0,7312578.0,Robert K. Ortberg,VA
+48,Caterpillar,Machinery,"64,809",-3.4%,"112,900","Irving, Texas",CAT,517.305,242346489263.0,1.465,5.84,267.3-544.99,3.395,0.66062,846646.0,3007806.0,Joseph E. Creed CPA,IL
+49,Allstate,Insurance,"64,106",12.3%,"55,200","Northfield Township, Cook County, Illinois",ALL,195.05,51396715397.0,0.377,3.92,176-215.7,0.26,0.13348,357893.0,1426560.0,Thomas Joseph Wilson II,IL
+50,Pfizer,Pharmaceutical industry,"63,627",8.8%,"81,000","New York City, New York",PFIZER.NS,5297.5,242348424858.0,0.113,35.0,3701-5993,-54.0,-1.00906,22331.0,38647.0,Meenakshi Nevatia,
+51,IBM,Technology and cloud computing,"62,753",1.4%,"284,500","Armonk, New York",IBM,284.73,265231473775.0,0.724,6.7,203.51-301.04,-2.78,-0.96692,11266809.0,5316170.0,Arvind Krishna,NY
+52,Delta Air Lines,Airline,"61,643",6.2%,"103,000","Atlanta, Georgia",DAL,59.317,38731792509.0,1.503,0.75,34.74-69.98,-0.683,-1.13833,3961000.0,8185534.0,Edward H. Bastian,GA
+53,TD Synnex,Information Technology,"58,452",1.6%,"25,750","Clearwater, Florida",SNX,154.11,12788964446.0,1.329,1.76,92.23-167.76,2.95,1.95157,164901.0,687179.0,Patrick Zammit,CA
+54,United Airlines,Airline,"57,063",6.2%,"107,300","Chicago, Illinois",UAL,96.065,31099889913.0,1.457,0.0,52-116,-0.205,-0.21294,3879866.0,5753775.0,J. Scott Kirby,IL
+55,ConocoPhillips,Petroleum industry,"56,953",-2.8%,"11,800","Houston, Texas",COP,90.535,113072992126.0,0.635,3.12,79.88-115.38,3.125,3.57511,3380866.0,6534821.0,Ryan M. Lance,TX
+56,TJX,Retail,"56,360",4.0%,"364,000","Framingham, Massachusetts",TJX,142.81,158948080390.0,0.921,1.6,111.73-146.46,-0.25,-0.17475,1130728.0,4969503.0,Ernie L. Herrman,MA
+57,AbbVie,Pharmaceutical industry,"56,334",3.7%,"55,000","Lake Bluff, Illinois",ABBV,228.87,404312187364.0,0.507,6.56,163.81-244.81,0.19,0.08308553,2259003.0,5412442.0,Robert A. Michael CPA,IL
+58,Enterprise Products,Petroleum industry,"56,219",13.1%,"7,800","Houston, Texas",EPD,30.9599,67035844187.0,0.645,2.14,27.77-34.63,-0.0801,-0.25805,1778616.0,4082709.0,A. James Teague,TX
+59,Charter Communications,Telecommunications,"55,085",0.9%,"94,500","Stamford, Connecticut",CHTR,244.855,33444985387.0,1.051,0.0,243.62-437.06,-0.085,-0.03470238,880665.0,2184896.0,Christopher L. Winfrey,CT
+60,Performance Food Group,Food processing,"54,681",2.5%,"36,815","Richmond, Virginia",PFGC,101.235,15834192266.0,1.089,0.0,68.395-109.05,-0.175,-0.17257,95109.0,1513401.0,George L. Holm,VA
+61,American Airlines,Airline,"54,211",2.7%,"133,300","Fort Worth, Texas",AAL,12.7001,8379892010.0,1.366,0.0,8.5-19.1,0.6101,5.04632,56111222.0,74009365.0,Robert D. Isom Jr.,TX
+62,Capital One Financial,Financials,"53,938",9.0%,"52,600","Richmond, Virginia",COF,220.8,141205353600.0,1.182,2.4,143.22-232.45,0.42,0.19058,1775761.0,3624818.0,Richard D. Fairbank,VA
+63,Cisco,Telecom hardware manufacturing,"53,803",-5.6%,"90,400","San Jose, California",CSCO,70.7531,279700939335.0,0.966,1.63,52.11-72.55,0.0931,0.13176,6188721.0,19347368.0,Charles H. Robbins,CA
+64,HP,Technology,"53,559",-0.3%,"58,000","Palo Alto, California",HPQ,28.025,26195019374.0,1.3,1.1576,21.21-39.8,0.365,1.3196,5090256.0,9939864.0,Enrique J. Lores,CA
+65,Tyson Foods,Food processing,"53,309",0.8%,"138,000","Springdale, Arkansas",TSN,51.71,18344173848.0,0.56,2.0,51.07-65.95,-1.01,-1.91578,839010.0,2713643.0,Donnie D. King,AR
+66,Intel,Technology,"53,101",-2.1%,"108,900","Santa Clara, California",INTC,37.55,164351968103.0,1.33,0.125,17.67-39.65,0.63,1.70639,37409153.0,126040262.0,Lip-Bu Tan,CA
+67,Broadcom,Technology,"52,432",46.4%,"37,000","Palo Alto, California",AVGO,344.735,1619646371947.0,1.208,2.36,138.1-374.23,4.435,1.30326,5112007.0,22777687.0,Hock E. Tan,CA
+68,Plains All American Pipeline,Petroleum industry,"50,073",2.8%,"4,200","Houston, Texas",PAA,16.725,11762766960.0,0.712,1.4575,15.58-21,0.215,1.30224,2931064.0,2892554.0,Wilfred C.W. Chiang,TX
+69,Bristol-Myers Squibb,Pharmaceutical industry,"48,300",7.3%,"34,100","New York City, New York",BMY,43.915,89386164826.0,0.344,2.48,42.96-63.33,-0.475,-1.07006,5438971.0,13903093.0,Christopher S. Boerner,NY
+70,Ingram Micro,Technology,"47,984",-0.1%,"26,125","Irvine, California",INGM,21.51,5051494311.0,2.3125541,0.31,14.25-25.69,0.13,0.60804,127463.0,323332.0,Paul D. Bay,CA
